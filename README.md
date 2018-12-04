@@ -3,6 +3,8 @@ Student fees management system VB .NET
 
 ## The complete code is on google drive because it is big to upload on github - https://drive.google.com/open?id=1RWcjbVbVRrWiVOlVS5q8UTEcRosl7ywd
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-3TYLn1THCs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 *********************************************Requirments for this software version**********************************
 ********************************************************************************************************************
@@ -45,7 +47,7 @@ College management System are complex and time consuming to maintain fees of stu
 
 It is not capable to store student record on online servers so users can retrieve and view information at anywhere and any time.
 
-<img src=""></img>
+<img src="https://github.com/Rajesh-Royal/fees-management-system/blob/master/Capture.PNG"></img>
 
 ## Individual role:-
 We are fresher's in this S/W development field so we  work in  team, as a team members, because everyone has to know about everything. And will work on each level of System Development.

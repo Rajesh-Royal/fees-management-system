@@ -4,10 +4,7 @@ Student fees management system VB .NET
 ## The complete code is on google drive because it is big to upload on github - https://drive.google.com/open?id=1RWcjbVbVRrWiVOlVS5q8UTEcRosl7ywd
 
 
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=3TYLn1THCs
-" target="_blank"><img src="http://img.youtube.com/vi/3TYLn1THCs/0.jpg" 
-alt="Fees Management System vb.net" width="560" height="315" border="10" /></a>
+[![fees management system vb.net click to see](https://img.youtube.com/vi/-3TYLn1THCs/maxresdefault.jpg)](https://www.youtube.com/watch?v=-3TYLn1THCs)
 
 
 *********************************************Requirments for this software version**********************************
